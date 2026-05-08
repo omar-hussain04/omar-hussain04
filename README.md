@@ -87,13 +87,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omar-hussain04&theme=tokyonight&hide_border=true" />
-</div>
 
 
 ---
