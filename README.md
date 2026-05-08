@@ -117,9 +117,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=omar-hussain04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-hussain04&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-hussain04&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
