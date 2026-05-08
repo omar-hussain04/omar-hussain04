@@ -1,4 +1,4 @@
-# Hi, I'm Omar Mohammed Hussain 👋
+# Omar Mohammed Hussain
 
 ### About Me
 * 🎓 I am a Computer Science graduate from Al-Zaytoonah University of Jordan with a Very Good academic standing.
