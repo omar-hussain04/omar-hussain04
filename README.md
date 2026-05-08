@@ -96,10 +96,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-hussain04&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
 ---
 
 ## 🌐 Let's Connect
