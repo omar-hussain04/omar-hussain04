@@ -6,7 +6,7 @@
 <!-- =========================  TYPING ANIMATION  ========================= -->
 <div align="center">
   <a href="https://github.com/omar-hussain04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=02569B&center=true&vCenter=true&width=720&lines=Crafting+Beautiful+Cross-Platform+Apps+with+Flutter;Designing+Intuitive+%26+Pixel-Perfect+User+Experiences;Automating+Workflows+with+AI+%26+n8n;%F0%9F%8F%86+Hackathon+Winner+%E2%80%A2+Always+Building" alt="typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=02569B&center=true&vCenter=true&width=720&lines=Crafting+Cross-Platform+Apps+with+Flutter;Designing+Intuitive+%26+Pixel-Perfect+User+Experiences;Automating+Workflows+with+AI+%26+n8n;%F0%9F%8F%86+Hackathon+Winner+%E2%80%A2+Always+Building" alt="typing SVG" />
   </a>
 </div>
 
