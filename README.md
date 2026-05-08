@@ -121,5 +121,4 @@
   <i>💡 “Design is intelligence made visible — and code is what brings it to life.”</i>
 </div>
 
-<!-- =========================  FOOTER  ========================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
+
