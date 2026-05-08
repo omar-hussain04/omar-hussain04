@@ -11,13 +11,7 @@
 </div>
 
 <!-- =========================  STATUS BADGES  ========================= -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omar-hussain04&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/omar-hussain04?label=Followers&style=for-the-badge&color=02569B" alt="followers" />
-  <a href="mailto:omar.hussain004@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Available-success?style=for-the-badge" alt="open to work" />
-  </a>
-</div>
+
 
 <br/>
 
