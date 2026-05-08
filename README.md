@@ -40,32 +40,6 @@
 📫 contact     : omar.hussain004@gmail.com
 ```
 
----
-
-## 🏆 Achievements & Highlights
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🥇</h3>
-      <b>1st Place</b><br/>
-      <sub>AI-Based Automation Platform Hackathon</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>🥉</h3>
-      <b>3rd Place</b><br/>
-      <sub>Build With AI Hackathon</sub>
-    </td>
-    <td align="center" width="34%">
-      <h3>🎓</h3>
-      <b>CS Graduate</b><br/>
-      <sub>Al-Zaytoonah University </sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <table>
