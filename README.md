@@ -34,7 +34,7 @@
                  - 📱 Cross-platform mobile development with Flutter & Dart
                  - 🎨 Wireframing, prototyping & polished UI/UX design
                  - 🤖 AI workflow automation with n8n
-                 - 🎮 Game development with Godot Engine
+                 - 🎮 Game development
 🌱 learning    : Advanced Flutter architectures, Nodejs , Clean Architecture, AI agents
 💬 ask_me_about: Flutter, UI UX, Hackathons, Automation Pipelines
 📫 contact     : omar.hussain004@gmail.com
