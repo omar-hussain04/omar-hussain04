@@ -35,8 +35,8 @@
                  - 🎨 Wireframing, prototyping & polished UI/UX design
                  - 🤖 AI workflow automation with n8n
                  - 🎮 Game development with Godot Engine
-🌱 learning    : Advanced Flutter architectures, Clean Architecture, AI agents
-💬 ask_me_about: Flutter, Mobile UX, Hackathons, Automation Pipelines
+🌱 learning    : Advanced Flutter architectures, Nodejs , Clean Architecture, AI agents
+💬 ask_me_about: Flutter, UI UX, Hackathons, Automation Pipelines
 📫 contact     : omar.hussain004@gmail.com
 ```
 
