@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```yaml
 👤 name        : Omar Mohammed Hussain
@@ -38,7 +38,6 @@
 🌱 learning    : Advanced Flutter architectures, Clean Architecture, AI agents
 💬 ask_me_about: Flutter, Mobile UX, Hackathons, Automation Pipelines
 📫 contact     : omar.hussain004@gmail.com
-⚡ fun_fact    : I turn caffeine ☕ + design tools 🎨 into shipped apps 🚀
 ```
 
 ---
