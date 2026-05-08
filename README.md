@@ -59,7 +59,7 @@
     <td align="center" width="34%">
       <h3>🎓</h3>
       <b>CS Graduate</b><br/>
-      <sub>Al-Zaytoonah University — Very Good</sub>
+      <sub>Al-Zaytoonah University </sub>
     </td>
   </tr>
 </table>
