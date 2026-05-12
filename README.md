@@ -34,19 +34,19 @@
 📫 contact     : omar.hussain004@gmail.com
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-#### 📱 Mobile & Frontend
+####  Mobile & Frontend
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-#### ☁️ Cloud, DevOps & Tools
+####  Cloud, DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-#### 🎨 UI/UX & Design
+####  UI/UX & Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
@@ -66,7 +66,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 💻 Programming Languages
+####  Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
