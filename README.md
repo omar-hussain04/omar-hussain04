@@ -92,12 +92,6 @@
   </tr>
 </table>
 
----
-
-
-
----
-
 ##  Let's Connect
 
 <div align="center">
