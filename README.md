@@ -115,10 +115,7 @@
 
 </div>
 
-<br/>
 
-<div align="center">
-  <i>💡 “Design is intelligence made visible — and code is what brings it to life.”</i>
-</div>
+
 
 
