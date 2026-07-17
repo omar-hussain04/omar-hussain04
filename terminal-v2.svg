@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="951" height="557" viewBox="0 0 951 557" font-family="Consolas, 'Cascadia Code', Menlo, monospace">
+
+<style>
+  .ascii { fill: #00c53f; font-size: 12px; }
+  .lbl { fill: #39ff6e; font-size: 13px; font-weight: 600; }
+  .val { fill: #d4ffe0; font-size: 13px; }
+  .dots { fill: #1f7a38; font-size: 13px; }
+  .hdr { fill: #39ff6e; font-size: 14.5px; font-weight: 700; letter-spacing: 1px; }
+  .divl { stroke: #1f7a38; stroke-width: 1; }
+  .glow { filter: url(#glow); }
+  .a-line { opacity: 0; animation: fadeIn 0.4s ease forwards; }
+  @keyframes fadeIn { to { opacity: 1; } }
+  .i-line { opacity: 0; animation: typeIn 0.25s steps(1) forwards; }
+  @keyframes typeIn { to { opacity: 1; } }
+  .cursor { fill: #39ff6e; animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+  .pulse { animation: pulse 3.5s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.84; } }
+</style>
+<defs>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="0.6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect fill="#0d1117" width="951" height="557" rx="12"/>
+<path d="M 0 30 L 0 12 Q 0 0 12 0 L 939 0 Q 951 0 951 12 L 951 30 Z" fill="#161b22"/>
+<circle cx="22" cy="15" r="5.5" fill="#ff5f56"/>
+<circle cx="42" cy="15" r="5.5" fill="#ffbd2e"/>
+<circle cx="62" cy="15" r="5.5" fill="#27c93f"/>
+<text x="475.5" y="19.5" text-anchor="middle" fill="#4d9960" font-size="12">omar@hussain04: ~</text>
+<rect x="1" y="1" width="949" height="555" rx="12" fill="none" stroke="#1f7a38" stroke-width="1.5"/>
+<g class="glow pulse">
+<text class="ascii a-line" x="30" y="52.0" style="animation-delay:0.0s" xml:space="preserve">============++++++++++++++++++++++++++++++++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="67.5" style="animation-delay:0.03s" xml:space="preserve">=======+++++++++++++++++++++++++++++++++++++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="83.0" style="animation-delay:0.06s" xml:space="preserve">===+++++++++++++++++++++++++++++++++++++++++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="98.5" style="animation-delay:0.09s" xml:space="preserve">++++++++++++++++++++++++++=-:...:-=+++++++++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="114.0" style="animation-delay:0.12s" xml:space="preserve">+++++++++++++++++++++++++-=*++++--:-++++++++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="129.5" style="animation-delay:0.15s" xml:space="preserve">+++++++++++++++++++++++*==%%%%%%##*:-+++++++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="145.0" style="animation-delay:0.18s" xml:space="preserve">+++++++++++++++++++++++*=*#*#%#*+**=-*++++++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="160.5" style="animation-delay:0.21s" xml:space="preserve">++++++++++++++++++++++++*#*=+%*+++**+*++++++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="176.0" style="animation-delay:0.24s" xml:space="preserve">++++++++++++++++++++++++*%%%%%######**+**+++++++++++++++++++</text>
+<text class="ascii a-line" x="30" y="191.5" style="animation-delay:0.27s" xml:space="preserve">++++++++++++++++++++++*+*%#***+++##***********++++++++++++++</text>
+<text class="ascii a-line" x="30" y="207.0" style="animation-delay:0.3s" xml:space="preserve">+++++++++++++++++++******+=*###**++*+**********+++++++++++++</text>
+<text class="ascii a-line" x="30" y="222.5" style="animation-delay:0.33s" xml:space="preserve">++++++++++++++++++********=-****-:+%*************+++++++++++</text>
+<text class="ascii a-line" x="30" y="238.0" style="animation-delay:0.36s" xml:space="preserve">+++++++++++++++++++++*****#*--::=#@*-+*****++++***++++++++++</text>
+<text class="ascii a-line" x="30" y="253.5" style="animation-delay:0.39s" xml:space="preserve">+++++++++++++++++*****++==@@%#%@@#-...--=+*****+**++++++++++</text>
+<text class="ascii a-line" x="30" y="269.0" style="animation-delay:0.42s" xml:space="preserve">++++++++++++++++*++=-::::=#=+==%+..:.....::---=***++++++++++</text>
+<text class="ascii a-line" x="30" y="284.5" style="animation-delay:0.45s" xml:space="preserve">++++++++++++++++:::::::::=@+-:+-.::::::::::....=*+++++++++++</text>
+<text class="ascii a-line" x="30" y="300.0" style="animation-delay:0.48s" xml:space="preserve">+++++++++++++++:.:::::-::*%=-==:::::::::::::::.:++++++++++++</text>
+<text class="ascii a-line" x="30" y="315.5" style="animation-delay:0.51s" xml:space="preserve">++++++++++++++::::::::--:**+=:::::---..:::::...:++++++++++++</text>
+<text class="ascii a-line" x="30" y="331.0" style="animation-delay:0.54s" xml:space="preserve">=++++++++++++-:-::::::---++=---:---:. ::::.....=*+++++++++++</text>
+<text class="ascii a-line" x="30" y="346.5" style="animation-delay:0.57s" xml:space="preserve">==++++++++++=.::.::::----==---:--::  ::::::::.:+++++++++++++</text>
+<text class="ascii a-line" x="30" y="362.0" style="animation-delay:0.6s" xml:space="preserve">====+++++++=:::...:::-----=-::-::. :*=:::::::.-+++++++++++++</text>
+<text class="ascii a-line" x="30" y="377.5" style="animation-delay:0.63s" xml:space="preserve">======+++++:::::..::::::::-:::::..=#+:::::::.:++++++++++++++</text>
+<text class="ascii a-line" x="30" y="393.0" style="animation-delay:0.66s" xml:space="preserve">=========+-::::.. . .:..::::::::.-=:.::::::::+++++++++++++++</text>
+<text class="ascii a-line" x="30" y="408.5" style="animation-delay:0.69s" xml:space="preserve">==========..::.   .=+-:::.::::---::.::::::..=+++++++++++++++</text>
+<text class="ascii a-line" x="30" y="424.0" style="animation-delay:0.72s" xml:space="preserve">=========::.... :+%@-:-:::::::::::::::::....=+++++++++++++++</text>
+<text class="ascii a-line" x="30" y="439.5" style="animation-delay:0.75s" xml:space="preserve">========-...:::::-=*.....................:..++++++++++++====</text>
+<text class="ascii a-line" x="30" y="455.0" style="animation-delay:0.78s" xml:space="preserve">========: ....::::.:..               .. .:.-+++++++++++=====</text>
+<text class="ascii a-line" x="30" y="470.5" style="animation-delay:0.81s" xml:space="preserve">-=======-       ........*+ ......    ....:.=+++++++=========</text>
+<text class="ascii a-line" x="30" y="486.0" style="animation-delay:0.84s" xml:space="preserve">----=====-.....      . :%*  ..     ........-++++============</text>
+<text class="ascii a-line" x="30" y="501.5" style="animation-delay:0.87s" xml:space="preserve">------==========:       :: .................================</text>
+</g>
+<text class="hdr i-line glow" x="507.0" y="97.375" style="animation-delay:0.4s">omar@hussain04</text>
+<line class="divl i-line" x1="507.0" y1="106.5" x2="807.0" y2="106.5" style="animation-delay:0.48s"/>
+<text class="i-line" x="507.0" y="120.125" style="animation-delay:0.56s" xml:space="preserve"><tspan class="lbl">OS:</tspan> <tspan class="dots">·········</tspan></text>
+<text class="val i-line" x="631.4" y="120.125" style="animation-delay:0.56s">Windows 11</text>
+<text class="i-line" x="507.0" y="137.625" style="animation-delay:0.64s" xml:space="preserve"><tspan class="lbl">Role:</tspan> <tspan class="dots">·······</tspan></text>
+<text class="val i-line" x="631.4" y="137.625" style="animation-delay:0.64s">Flutter Developer</text>
+<text class="i-line" x="507.0" y="155.125" style="animation-delay:0.72s" xml:space="preserve"><tspan class="lbl">Goal:</tspan> <tspan class="dots">·······</tspan></text>
+<text class="val i-line" x="631.4" y="155.125" style="animation-delay:0.72s">Aspiring Full Stack Developer</text>
+<text class="i-line" x="507.0" y="172.625" style="animation-delay:0.8s" xml:space="preserve"><tspan class="lbl">Location:</tspan> <tspan class="dots">···</tspan></text>
+<text class="val i-line" x="631.4" y="172.625" style="animation-delay:0.8s">Amman, Jordan</text>
+<text class="i-line" x="507.0" y="190.125" style="animation-delay:0.88s" xml:space="preserve"><tspan class="lbl">Education:</tspan> <tspan class="dots">··</tspan></text>
+<text class="val i-line" x="631.4" y="190.125" style="animation-delay:0.88s">B.Sc. CS - Al-Zaytoonah Univ.</text>
+<text class="hdr i-line glow" x="507.0" y="219.875" style="animation-delay:0.96s">Stack</text>
+<line class="divl i-line" x1="507.0" y1="229.0" x2="807.0" y2="229.0" style="animation-delay:1.04s"/>
+<text class="i-line" x="507.0" y="242.625" style="animation-delay:1.12s" xml:space="preserve"><tspan class="lbl">Languages:</tspan> <tspan class="dots">··</tspan></text>
+<text class="val i-line" x="631.4" y="242.625" style="animation-delay:1.12s">Dart, Java, Python, C#</text>
+<text class="i-line" x="507.0" y="260.125" style="animation-delay:1.2s" xml:space="preserve"><tspan class="lbl">Frameworks:</tspan> <tspan class="dots">·</tspan></text>
+<text class="val i-line" x="631.4" y="260.125" style="animation-delay:1.2s">Flutter, React, Next.js</text>
+<text class="i-line" x="507.0" y="277.625" style="animation-delay:1.28s" xml:space="preserve"><tspan class="lbl">Cloud:</tspan> <tspan class="dots">······</tspan></text>
+<text class="val i-line" x="631.4" y="277.625" style="animation-delay:1.28s">Firebase, AWS, GCP, Docker</text>
+<text class="i-line" x="507.0" y="295.125" style="animation-delay:1.36s" xml:space="preserve"><tspan class="lbl">Automation:</tspan> <tspan class="dots">·</tspan></text>
+<text class="val i-line" x="631.4" y="295.125" style="animation-delay:1.36s">n8n, AI Agents</text>
+<text class="i-line" x="507.0" y="312.625" style="animation-delay:1.44s" xml:space="preserve"><tspan class="lbl">Design:</tspan> <tspan class="dots">·····</tspan></text>
+<text class="val i-line" x="631.4" y="312.625" style="animation-delay:1.44s">Figma, Photoshop, Illustrator</text>
+<text class="i-line" x="507.0" y="330.125" style="animation-delay:1.52s" xml:space="preserve"><tspan class="lbl">GameDev:</tspan> <tspan class="dots">····</tspan></text>
+<text class="val i-line" x="631.4" y="330.125" style="animation-delay:1.52s">Godot, Unity</text>
+<text class="hdr i-line glow" x="507.0" y="359.875" style="animation-delay:1.6s">Contact</text>
+<line class="divl i-line" x1="507.0" y1="369.0" x2="807.0" y2="369.0" style="animation-delay:1.68s"/>
+<text class="i-line" x="507.0" y="382.625" style="animation-delay:1.76s" xml:space="preserve"><tspan class="lbl">Email:</tspan> <tspan class="dots">······</tspan></text>
+<text class="val i-line" x="631.4" y="382.625" style="animation-delay:1.76s">omar.hussain004@gmail.com</text>
+<text class="i-line" x="507.0" y="400.125" style="animation-delay:1.84s" xml:space="preserve"><tspan class="lbl">Portfolio:</tspan> <tspan class="dots">··</tspan></text>
+<text class="val i-line" x="631.4" y="400.125" style="animation-delay:1.84s">omarhussain-portfolio.vercel.app</text>
+<text class="i-line" x="507.0" y="417.625" style="animation-delay:1.92s" xml:space="preserve"><tspan class="lbl">GitHub:</tspan> <tspan class="dots">·····</tspan></text>
+<text class="val i-line" x="631.4" y="417.625" style="animation-delay:1.92s">omar-hussain04</text>
+<text class="i-line" x="507.0" y="435.125" style="animation-delay:2.0s" xml:space="preserve"><tspan class="lbl">LinkedIn:</tspan> <tspan class="dots">···</tspan></text>
+<text class="val i-line" x="631.4" y="435.125" style="animation-delay:2.0s">omar-hussain-8b3681274</text>
+<text class="i-line" x="507.0" y="452.625" style="animation-delay:2.08s" xml:space="preserve"><tspan class="lbl">Behance:</tspan> <tspan class="dots">····</tspan></text>
+<text class="val i-line" x="631.4" y="452.625" style="animation-delay:2.08s">omarhussain9</text>
+<g class="i-line" style="animation-delay:2.31s"><text class="lbl" x="507.0" y="474.125">&#36;</text><rect class="cursor" x="523.0" y="463.125" width="8.5" height="15"/></g>
+</svg>
